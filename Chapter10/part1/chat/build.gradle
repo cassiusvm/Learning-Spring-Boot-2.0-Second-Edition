@@ -1,7 +1,7 @@
 // tag::propdeps-plugin-1[]
 buildscript {
 	ext {
-		springBootVersion = '2.0.0.M5'
+		springBootVersion = '2.0.0.RELEASE'
 		springCloudVersion = 'Finchley.M3'
 		springCloudStreamVersion = 'Elmhurst.M2'
 	}
